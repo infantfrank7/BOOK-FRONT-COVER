@@ -180,7 +180,7 @@ Publish the website in the LocalHost.
 
 '''
 # OUTPUT:
-![Screenshot 2024-12-04 220811](https://github.com/user-attachments/assets/6424e8e4-0b86-425e-b472-10a977b9cbc8)
+![Screenshot 2024-12-04 220811]
 
 
 # RESULT:
